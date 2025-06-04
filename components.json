@@ -11,6 +11,13 @@
     "prefix": ""
   },
   "aliases": {
+"models": {
+  "llama_maverick": "https://openrouter.ai/meta-llama/llama-4-maverick:free",
+  "llama_scout": "https://openrouter.ai/meta-llama/llama-4-scout:free",
+  "kimi_thinking": "https://openrouter.ai/moonshotai/kimi-vl-a3b-thinking:free",
+  "nemotron_nano": "https://openrouter.ai/nvidia/llama-3.1-nemotron-nano-8b-v1:free",
+  "deepseek_base": "https://openrouter.ai/deepseek/deepseek-v3-base:free"
+}
     "components": "@/components",
     "utils": "@/lib/utils",
     "ui": "@/components/ui",
